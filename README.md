@@ -90,7 +90,7 @@ const malith = {
 | 🏅 Achievement | 📝 Description |
 |---------------|----------------|
 | 🥇 IDEATHON 1.0 | 1st Place - Team Leader |
-| 🎯 IDEALIZE (AIESEC) | Top 8 Finalist out of 100 teams |
+| 🎯 IDEALIZE (AIESEC) | Top 13 Finalist out of 100 teams |
 | 📄 Publication | AI-Assisted Digital Audio Workstation with IoT Integration |
 
 ---
