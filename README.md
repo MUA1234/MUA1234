@@ -83,9 +83,8 @@ const malith = {
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUA1234&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MUA1234&theme=tokyonight&no-frame=true&row=1&column=7)
+
 
 | 🏅 Achievement | 📝 Description |
 |---------------|----------------|
